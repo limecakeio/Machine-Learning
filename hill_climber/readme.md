@@ -5,7 +5,7 @@ Ensure to copy the hill_climber.go file into your go path and run it:
 
 ````
 cp hill_climber.go $GOPATH/some_folder
-cd $GOPATH/some_folder
+cd $GOPATH/src/<some_folder>
 go run hill_climber.go
 ````
 
