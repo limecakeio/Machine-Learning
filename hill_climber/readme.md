@@ -88,7 +88,8 @@ Seeing as we only replace a hypothesis if the mutated copy yields a better fitne
 Only taking a step based on a better fitness can lead to the algorithm getting stuck  in
 a local optimum without having the chance of reaching a global optimum:
 
-![Only taking a step based on a better fitness can lead to getting stuck in a local optimum](/img/local-global-optimum.png)
+![Only taking a step based on a better fitness can lead to getting stuck in a local optimum](img/local-global-optimum.png)
+
 
 However, this issue is addressed by amending the algorithm to be implemented utilising [Simulated Annealing](../simulated_annealing).
 
