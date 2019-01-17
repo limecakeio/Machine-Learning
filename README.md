@@ -11,4 +11,4 @@ The following artifacts have been created as part of the topics covered througho
 
 |#    | Topic  | Language|
 |:----|:-------|--------:|
-| 01 | [Hill Climber Algorithm](https://github.com/limecakeio/Machine-Learning/hill_climber) |Golang|
+| 01 | [Hill Climber Algorithm](/hill_climber) |Golang|
